@@ -1,7 +1,7 @@
 # HyperCL
 
 HyperCL is a universal contrastive learning framework for hyper-relational KG embeddings, which is flexible to integrate different hyper-relational KG embedding methods and effectively boost their link prediction performance with hierarchical ontology. Please see the details in our paper below:
-- Yuhuan Lu, Weijian Yu, Xin Jing, and Dingqi Yang. 2024. HyperCL: A Contrastive Learning Framework for Hyper-Relational Knowledge Graph Embedding with Hierarchical Ontology, accepted by ACL Findings 2024.
+- Yuhuan Lu, Weijian Yu, Xin Jing, and Dingqi Yang. 2024. HyperCL: A Contrastive Learning Framework for Hyper-Relational Knowledge Graph Embedding with Hierarchical Ontology. In Findings of the Association for Computational Linguistics ACL 2024 (pp. 2918-2929).
 
 ## How to run the code
 ###### Train and evaluate model (suggested parameters for JF17k, WikiPeople and WD50K dataset)
@@ -30,8 +30,8 @@ If you use our code or datasets, please cite:
 @inproceedings{lu2024hypercl,
   title={HyperCL: A Contrastive Learning Framework for Hyper-Relational Knowledge Graph Embedding with Hierarchical Ontology},
   author={Lu, Yuhuan and Yu, Weijian and Jing, Xin and Yang, Dingqi},
-  booktitle={xxx},
-  pages={xxx},
+  booktitle={Findings of the Association for Computational Linguistics ACL 2024},
+  pages={2918--2929},
   year={2024}
 }
 ```
